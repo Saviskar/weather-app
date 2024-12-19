@@ -51,7 +51,7 @@ You can also use the application by visiting this link: [https://saviskar.github
 - Add more weather details such as humidity, wind speed, and weather conditions.
 - Implement error handling for invalid city names.
 - Include support for multiple languages.
-- 
+
 ## Acknowledgments
 - [Tailwind CSS Documentation](https://tailwindcss.com/docs)
 - [Weather API](https://openweathermap.org/api)
